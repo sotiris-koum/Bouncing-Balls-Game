@@ -32,6 +32,9 @@
 ## ⚠️ Known Issues
 - The simulation may crash after extended runtime due to exponential ball growth
 - This is intentional for demonstration purposes
+  
+📜 License
+This project is open source under the MIT License.
 
 ## 🤝 Contributing
 Contributions welcome! Feel free to fork and submit pull requests.
